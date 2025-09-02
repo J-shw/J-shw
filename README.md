@@ -1,7 +1,9 @@
 ## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-shw)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-shw)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-shw&langs_count=3)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-shw)
+
 
 <!--
 **J-shw/J-shw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
