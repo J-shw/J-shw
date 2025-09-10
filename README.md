@@ -9,3 +9,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-shw&hide_border=true&border_radius=10" alt="J-shw's GitHub Streak" />
   </a>
 </div>
+
+<h3 align="center">🔭 My Interests</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant"/>
+  <img src="https://img.shields.io/badge/Gaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Gaming"/>
+  <img src="https://img.shields.io/badge/Hiking-8A5A44?style=for-the-badge&logo=alltrails&logoColor=white" alt="Hiking"/>
+</p>
