@@ -10,10 +10,29 @@
   </a>
 </div>
 
+---
+
 <h3 align="center">🔭 My Interests</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
   <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant"/>
   <img src="https://img.shields.io/badge/Gaming-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Gaming"/>
-  <img src="https://img.shields.io/badge/Hiking-8A5A44?style=for-the-badge&logo=alltrails&logoColor=white" alt="Hiking"/>
+  <img src="https://img.shields.io/badge/Hiking-8A5A44?style=for-the-badge&logo=alltrails&logoColor=white" alt="Hiking"/> 
+</p>
+
+---
+
+<h3 align="center">🛠️ My Projects</h3>
+<p align="center">Check out some of my projects below!</p>
+
+<h4 align="center">📱 Mobile Apps</h4>
+<p align="center">
+  <a href="https://menstrudel.app/">Menstrudel</a> (Android/iOS) | 
+  <a href="https://github.com/J-shw/W-Anchor">W Anchor</a> (Android)
+</p>
+  
+<h4 align="center">🏡 Home Assistant Integrations</h4>
+<p align="center">
+  <a href="https://github.com/J-shw/ha-mycloud">WD MyCloud</a> | 
+  <a href="https://github.com/J-shw/ha-airvpn">AirVPN</a>
 </p>
